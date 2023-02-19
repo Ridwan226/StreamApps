@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import "./input.css";
+/* @import "./input.css"; */
 
 .flex::before,
 .flex::after {
