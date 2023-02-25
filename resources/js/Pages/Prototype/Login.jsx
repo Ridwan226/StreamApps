@@ -69,7 +69,7 @@ export default function Login() {
                                     Start Watching
                                 </span>
                             </a> */}
-                                <Link>
+                                <Link href={route("prototype.dashboard")}>
                                     <PrimaryButton
                                         type="button"
                                         varian="primary"
